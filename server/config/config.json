@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": changeit,
+    "password": "changeit",
     "database": "postman_dev",
     "host": "localhost",
     "port": 5432,
@@ -9,7 +9,7 @@
   },
   "test": {
     "username": "postgres",
-    "password": changeit,
+    "password": "changeit",
     "database": "postman_test",
     "host": "localhost",
     "port": 5432,
